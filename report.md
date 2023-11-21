@@ -23,6 +23,8 @@
 
 4. Только авторизованные пользователи имеют доступ к конфиденциальным данных пассажиров
 
+![image](https://github.com/twensoo/cyberimmunity_dz/arh.png)
+
 
 
 
