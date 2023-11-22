@@ -13,6 +13,10 @@
 Пассажиры - перемещаются в автобусе согласно маршруту
 
 
+![image](https://github.com/twensoo/cyberimmunity_dz/assets/107369503/53eb5d17-7dfe-4f53-a3ba-2b16d5f228ef)
+
+
+
 ![image](https://github.com/twensoo/cyberimmunity_dz/assets/107369503/441f54d6-ab90-4f10-8fe3-6bf862777c0b)
 
 
